@@ -9,7 +9,4 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
-<<<<<<< HEAD
 
-=======
->>>>>>> 29d9ffc35fbf07ab5cb71d9b2beb83409680406b
